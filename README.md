@@ -4,5 +4,5 @@
 
 <br>
 
-<h3> :point_down:Abaixo tem o print de como fica meu projeto na tela de um computador. :point_down:</h3>
-<img  src=""/>
+<h3> :point_down:Abaixo tem o print de como fica meu projeto na tela de um computador.:computer:</h3>
+<img  src="https://github.com/larissasn/Projeto-Login/blob/master/img/print1%20pc.png?raw=true"/>
